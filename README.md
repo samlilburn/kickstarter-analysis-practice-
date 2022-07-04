@@ -18,7 +18,7 @@ To give Louise a common sense visualization of our measures of tendancy and spre
 From these plots, we can see that the mean campaign goal is around 4,000 pounds. This is outside the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than 4,000 pounds. Half of the campaign goals are less than 2,000 pounds, which is just over the 3rd quartile for amounts pledged.
 ---
 **In light of these findings and their demonstration of the success of Kickstarter campaigns runs for plays in Great Britain, further seen here: 
-![Category Outcomes](Parent Category Outcomes.png) 
+![Category Outcomes]https://github.com/samlilburn07/kickstarter-analysis/blob/c77334d4293aeaa4908b85b27a0b833a7dd2b859/Parent%20Category%20Outcomes.png) 
 and here: 
-![Subgategory Outcomes](Subcategory Outcomes.png) 
+(![Subgategory Outcomes](Subcategory Outcomes.png))
 we have recommendations for Louise. We reccomend that she runs her campaign in May, as this is the month when the most successful campaigns of this nature are run. We also suggest that she sets a realistic funraising goal. Specifically, a goal less than 4,000 pounds. "Foresight" was previously successful in Great Britain and we believe it could be again if Louise chooses it as her plays. With all this in mind, we wish Louise the best, and hope for a successful Kickstarter campaign for a play in May.
