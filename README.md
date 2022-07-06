@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 This analysis of Kickstarter campaigns, conducted for Louise, focuses on Kickstarter campaigns for plays run in Great Britan. 
-
+---
 We began our analysis by examining the best times of year to launch a Kickstarter campaign. The results, which found the best month to launch a campaign is May, can be seen here.
 ![Outcomes Based Off Launch Date](https://github.com/samlilburn07/kickstarter-analysis/blob/b9a3b1550467532e6887803a070a768e7b6038a5/Outcomes%20Based%20Off%20Launch%20Date%201:3:3.png)
 
