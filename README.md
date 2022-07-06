@@ -2,7 +2,7 @@
 This analysis of Kickstarter campaigns, conducted for Louise, focuses on Kickstarter campaigns for plays run in Great Britan. 
 ---
 We began our analysis by examining the best times of year to launch a Kickstarter campaign. The results, which found the best month to launch a campaign is May, can be seen here:
-![Outcomes Based Off Launch Date](https://github.com/samlilburn07/kickstarter-analysis/blob/d7a6ef36d758aa02d3b19878391d15e18b1205e0/Outcomes%20Based%20Off%20Launch%20Date%201:3:3.png)
+![Outcomes Based Off Launch Date](Outcomes Based Off Launch Date 1:3:3.png)
 ---
 Next, we filtered our data to locate five plays from Edinburg Festival Fringe that Louise was inspired by. Each of the five plays were successful. The campaign's description, its goal, pledged amount, average donation and number of backers can be found in the "Edinburg Research" sheet, in our [Kickstarter Data](https://github.com/samlilburn07/kickstarter-analysis/blob/6eb0de3fab62e383c2c8bb9353b9932785a4f3bf/data-1-1-3-StarterBook.xlsx) workbook.
 ---
